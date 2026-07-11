@@ -1,0 +1,4 @@
+python-binance
+typer
+rich
+python-dotenv
